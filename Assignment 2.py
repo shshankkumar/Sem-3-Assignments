@@ -37,6 +37,6 @@ def display_report(self):
             print("- " + item)
         print(f"\nTotal items in report: {len(self)}")
         
-        
+output:         
                     
         
